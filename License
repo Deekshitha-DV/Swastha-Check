@@ -1,0 +1,65 @@
+## Apache License 2.0 – Simplified Description
+
+The **Apache License 2.0** is a **permissive open-source license** that allows users to freely use, modify, distribute, and even sell software — as long as they follow a few important rules.
+
+### Key Highlights:
+
+#### What You’re Allowed to Do:
+
+* **Use** the software for personal, commercial, or educational purposes.
+* **Modify** the source code to fit your needs.
+* **Distribute** the original or modified version, including in proprietary projects.
+* **Sublicense** or include it in larger projects.
+* **Add warranties or paid support**, but only on your behalf.
+
+#### Conditions You Must Follow:
+
+1. **Include the License**: You must provide a copy of the Apache License with your distribution.
+2. **State Your Changes**: If you modify any files, clearly mention that you did.
+3. **Preserve Notices**: Keep any copyright, patent, or attribution notices in the source.
+4. **Include the NOTICE File**: If the original project includes a `NOTICE` file, your version must too.
+5. **Respect Trademarks**: You can’t use the original project's name or logo without permission.
+
+#### Contributions:
+
+Any code or content you contribute to an Apache-licensed project is automatically licensed under Apache 2.0 — unless you explicitly state otherwise.
+
+#### Patents Clause:
+
+If you sue someone over patent claims related to the software, your rights under this license are **revoked**.
+
+#### No Warranty:
+
+The software is provided **"as is"** — there's **no warranty** or guarantee that it will work as expected.
+
+#### Liability:
+
+Contributors are **not liable** for any damages, losses, or issues caused by using the software.
+
+---
+
+### How to Use It in Your Project:
+
+Add this boilerplate at the top of your file or project:
+
+```text
+Copyright [YEAR] [Your Name or Organization]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+```
+
+---
+
+### Summary
+
+The Apache License 2.0 is ideal if you want:
+
+* Freedom to use and modify the code.
+* To protect your contributors.
+* To keep your project open, while allowing for commercial use.
+
+It’s widely used by major projects like **Apache Hadoop**, **Kubernetes**, **TensorFlow**, and more.
